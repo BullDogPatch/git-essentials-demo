@@ -1,3 +1,35 @@
-h1 {
+/* h1 {
   color: lime;
+} */
+
+.one {
+  color: red;
+}
+
+.two {
+  color: blue;
+}
+
+.three {
+  color: lime;
+}
+
+.four {
+  color: pink;
+}
+
+.five {
+  color: purple;
+}
+
+.six {
+  color: aliceblue;
+}
+
+.seven {
+  color: brown;
+}
+
+.eight {
+  color: rgb(27, 119, 41);
 }
